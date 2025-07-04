@@ -23,6 +23,7 @@ This is the **Admin Control App** for my main **MyShop** user app. It allows adm
 | Kotlin           | Programming Language                     |
 | Firebase         | Backend - Firestore, Storage             |
 | ResultState      | Custom wrapper for external data results |
+| Coil             | Asychronous Image Loading                |
 
 ---
 
